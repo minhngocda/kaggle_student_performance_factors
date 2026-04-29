@@ -1,11 +1,9 @@
-# kaggle_student_performance_factors
+This project analyzes a student performance dataset sourced from Kaggle. The objective is to conduct a comprehensive exploratory data analysis (EDA) and develop a simple predictive model to estimate student scores based on key influencing factors.
 
-Project Overview
+The project focuses on:
 
-This project uses a sample student's performance dataset downloaded from Kaggle (https://www.kaggle.com/code/lalit7881/student-exam-performance-dataset-analysis-eda/input). The primary objective is to perform an exploratory data analysis (EDA), build a simple model to predict student scores based on key factors.
+Exploring the dataset to understand its structure, key variables, and underlying patterns
+Cleaning and preprocessing the data to ensure quality and consistency
+Building a basic regression model to predict student performance
 
-
-The analysis focuses on:
-
-- Exploring the dataset to identify key variables and patterns
-- Cleaning and preparing the data for analysis and building a simple regression model
+The goal is to extract meaningful insights from the data and demonstrate a structured approach to data analysis and introductory machine learning.
