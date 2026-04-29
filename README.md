@@ -2,8 +2,8 @@ This project analyzes a student performance dataset sourced from Kaggle. The obj
 
 The project focuses on:
 
-Exploring the dataset to understand its structure, key variables, and underlying patterns
-Cleaning and preprocessing the data to ensure quality and consistency
-Building a basic regression model to predict student performance
+- Exploring the dataset to understand its structure, key variables, and underlying patterns
+- Cleaning and preprocessing the data to ensure quality and consistency
+- Building a basic regression model to predict student performance
 
 The goal is to extract meaningful insights from the data and demonstrate a structured approach to data analysis and introductory machine learning.
