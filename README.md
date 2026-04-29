@@ -7,3 +7,5 @@ The project focuses on:
 - Building a basic regression model to predict student performance
 
 The goal is to extract meaningful insights from the data and demonstrate a structured approach to data analysis and introductory machine learning.
+
+View notebook: file:///Users/Admin/Student_performance_sample.html
